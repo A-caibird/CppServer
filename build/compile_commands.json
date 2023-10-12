@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/acaibird/Documents/CodeExperimentSpace/Cpp/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/Cpp.dir/main.cpp.o -c /Users/acaibird/Documents/CodeExperimentSpace/Cpp/main.cpp",
+  "file": "/Users/acaibird/Documents/CodeExperimentSpace/Cpp/main.cpp",
+  "output": "CMakeFiles/Cpp.dir/main.cpp.o"
+}
+]
